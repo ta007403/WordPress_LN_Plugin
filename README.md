@@ -1,4 +1,7 @@
 🧩 WooCommerce LNBits Lightning Payment Gateway<br>
+
+#
+
 ⚡ Overview<br>
 
 The WooCommerce LNBits Gateway plugin allows your store to accept Bitcoin Lightning payments directly through your own LNBits instance — without intermediaries or custodians.<br>
@@ -68,3 +71,25 @@ WooCommerce Consumer Key<br>
 WooCommerce Secret Key<br>
 
 (optional) Redirect URL after successful payment<br>
+
+#
+
+This is a picture for more explaination<br>
+
+![WP_LN_Plugin_2](https://github.com/user-attachments/assets/09b57c28-cb21-4c20-b8df-c8db486c607f)
+
+#
+
+![WP_LN_Plugin_1](https://github.com/user-attachments/assets/9cc8b32d-e19d-4545-916a-12ba1253fc02)
+
+#
+
+![WP_LN_Plugin_3](https://github.com/user-attachments/assets/d5d156e3-fd8d-4b1d-9873-3c1b397e4ce9)
+
+#
+
+![WP_LN_Plugin_4](https://github.com/user-attachments/assets/b394cbb7-cf60-4cab-9760-1b8e4af2e8ff)
+
+#
+
+![WP_LN_Plugin_5](https://github.com/user-attachments/assets/5cc3eda3-bd99-45ec-9584-18f7018882bf)
